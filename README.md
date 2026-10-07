@@ -2,7 +2,8 @@
 
 **A Power BI dashboard analyzing operational flight delay patterns across U.S. carriers and airports — built end-to-end from raw data to a published, themed report.**
 
-![Dashboard Preview](<img width="791" height="446" alt="Screenshot 2026-10-07 093229" src="https://github.com/user-attachments/assets/79e2f16e-51b2-4d9a-89ba-702ca056b9db" />
+![Dashboard Preview](<img width="791" height="446" alt="Screenshot 2026-10-07 093229" src="https://github.com/user-attachments/assets/1c1a968d-6ac7-47c5-92a8-df51aa553dc4" />
+
 )
 
 ---
